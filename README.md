@@ -17,3 +17,4 @@ In this repo you can find all the tasks from lectures and exercises included in 
 - __Multidimensional Arrays__
 - __Sets and Maps Advanced__
 - __Streams, Files and Directories__
+- __Functional Programming__
