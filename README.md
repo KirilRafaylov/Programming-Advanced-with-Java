@@ -18,3 +18,4 @@ In this repo you can find all the tasks from lectures and exercises included in 
 - __Sets and Maps Advanced__
 - __Streams, Files and Directories__
 - __Functional Programming__
+- __Defining Classes__
