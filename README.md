@@ -19,3 +19,4 @@ In this repo you can find all the tasks from lectures and exercises included in 
 - __Streams, Files and Directories__
 - __Functional Programming__
 - __Defining Classes__
+- __Generics__
