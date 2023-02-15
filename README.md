@@ -20,3 +20,4 @@ In this repo you can find all the tasks from lectures and exercises included in 
 - __Functional Programming__
 - __Defining Classes__
 - __Generics__
+- __Iterators and Comparators__
